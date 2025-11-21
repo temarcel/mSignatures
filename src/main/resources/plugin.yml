@@ -1,0 +1,11 @@
+name: mSginatures
+version: '1.0.3'
+main: dev.marceloOo.mSignatures.MSignatures
+api-version: '1.21'
+commands:
+  sign:
+    permission: ms.sign
+  msreload:
+    permission: ms.reload
+  checksign:
+    permission: ms.checksign

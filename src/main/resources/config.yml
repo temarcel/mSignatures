@@ -1,0 +1,15 @@
+settings:
+  signatureName: "&7Signed by: &b%player_name%" # Use %player_name% to get the player's name.
+  signatureNamePrefix: "&7Signed by"
+  keepOldSignatures: false
+messages:
+  noPermission: "&cYou do not have permission to use this command."
+  notAPlayer: "You have to be a player to use this command."
+  noItemInHand: "&cPlease hold an item in your main hand."
+  itemSigned: "&aItem has been signed."
+  signCorrectUsage: "&cCorrect usage: &7/sign"
+  checkSignCorrectUsage: "&cCorrect usage: &7/checksign <player_name>"
+  configReloaded: "&aConfig has been reloaded."
+  itemHasNoLore: "&cThe item you are holding does not have a lore."
+  cannotSignAlreadySigned: "&cThis item cannot be signed; it already has a signature."
+  alreadySigned: "&cThis item is already signed by you."
